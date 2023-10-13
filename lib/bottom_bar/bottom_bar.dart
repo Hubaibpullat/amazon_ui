@@ -3,16 +3,16 @@ import 'package:amazon_ui/Screens/cart.dart';
 import 'package:amazon_ui/Screens/categories.dart';
 import 'package:amazon_ui/Screens/home.dart';
 
-// import 'package:amazon_ui/Screens/home_page.dart';
+
 import 'package:amazon_ui/Screens/oders.dart';
 import 'package:flutter/material.dart';
 import 'package:google_nav_bar/google_nav_bar.dart';
 
 
-// ignore: must_be_immutable
+
 class Bottom extends StatefulWidget { 
 
-    // ignore: prefer_const_constructors_in_immutables
+  
     Bottom({Key? key}) : super(key:key);
 
   @override
